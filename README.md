@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vishalgr
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning DevOps
+- 👀 I’m a Certified Kubernetes Administrator
+- 🌱 I’m currently Working on DevOps(GitHub, Bitbucket, Jenkins, Azure DevOps, Terraform, Ansible, Docker, Kubernetes, AWS, Azure, SonarQube)
 - 💞️ I’m looking to collaborate on AWS/Azure/GitHub
 - 📫 How to reach me 
  - Email:vishalgr44@gmail.com
